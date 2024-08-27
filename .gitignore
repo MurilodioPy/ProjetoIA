@@ -1,0 +1,12 @@
+venv
+dist
+build
+canvas.py
+regraHebb.py
+projetoIA.spec
+testes.py
+.pyc
+.idea/
+.env
+**/__pycache__/
+*py[cod]
