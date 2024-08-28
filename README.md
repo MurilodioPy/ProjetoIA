@@ -61,3 +61,4 @@ A teoria de aprendizagem de Hebb e o Perceptron representam os primeiros passos 
 - Hebb, D. O. (1949). *The Organization of Behavior: A Neuropsychological Theory*. Wiley.
 - Rosenblatt, F. (1958). *The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain*. Psychological Review.
 
+[Playground tensor flow](https://playground.tensorflow.org/) - Brinque um pouco com redes neurais!!
