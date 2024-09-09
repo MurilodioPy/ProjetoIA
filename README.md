@@ -1,4 +1,4 @@
-# História Inicial das Inteligências Artificiais: Hebb e Perceptron
+# História das Inteligências Artificiais: Hebb e Perceptron
 
 ## Introdução
 A história da inteligência artificial (IA) é repleta de marcos significativos que moldaram o desenvolvimento das tecnologias que conhecemos hoje. Dois desses marcos são a teoria de aprendizagem de Hebb e o Perceptron, ambos fundamentais para o avanço dos modelos de redes neurais.
