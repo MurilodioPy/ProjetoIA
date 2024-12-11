@@ -1,12 +1,8 @@
 venv
 dist
 build
-canvas.py
-regraHebb.py
+temp
 projetoIA.spec
-testes.py
-desafio_1.py
-desafio_2.py
 .pyc
 .idea/
 .env
